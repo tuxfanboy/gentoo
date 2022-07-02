@@ -1,0 +1,9 @@
+app-admin/doas persist
+sys-auth/pambase -passwdqc
+x11-terms/rxvt-unicode xft
+www-client/firefox -wifi -debug -dbus -wayland
+media-libs/libsndfile minimal
+games-action/polymc -debug
+app-text/ghostscript-gpl -cups
+sys-libs/zlib abi_x86_32
+>=sys-libs/zlib-1.2.12-r2 minizip
