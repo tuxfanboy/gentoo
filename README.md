@@ -5,4 +5,5 @@ I'm not a full-time Gentoo user, however I switch hop over to it every once in a
 
 ## My Gentoo desktop
 (not a copy of Mental Outlaw's at all)
+
 ![Gentoo](https://github.com/tuxfanboy/gentoo/blob/main/gentoo.png)
